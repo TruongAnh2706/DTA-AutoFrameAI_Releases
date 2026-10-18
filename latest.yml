@@ -1,8 +1,11 @@
-version: 1.6.0
+version: 1.7.0
 files:
-  - url: AUTOFRAME-AI-Setup-1.6.0.exe
-    sha512: cJM4mBihomJWltSLNjc2Ykn+/0Jb7MU5SBWb1qWBzgglPAZlpds1yp1+TJoDXLcP4asd7NnXLiPHGXVtqZ2L3w==
-    size: 306856615
-path: AUTOFRAME-AI-Setup-1.6.0.exe
-sha512: cJM4mBihomJWltSLNjc2Ykn+/0Jb7MU5SBWb1qWBzgglPAZlpds1yp1+TJoDXLcP4asd7NnXLiPHGXVtqZ2L3w==
-releaseDate: '2026-10-17T13:32:19.811583+00:00'
+  - url: AUTOFRAME-AI-Setup-1.7.0.exe
+    sha512: xFs4pIhRJP77faG7U28JNhYyZMR83Khr1eYnW9R+AljkMCliBws/7FQpSE8Ej1aHSLEs1QuzRObAqah7lJCdbQ==
+    size: 373647730
+  - url: AutoFrame_v1.7.0_Portable.zip
+    sha512: wGQhh5NYcaVFwCAtbZSbFI9JEoUIZi4eJJjXLySL+bn5S3/y73+ekfBcSAZxlGHis0/wB3vEYAb9IB5V2hgHFw==
+    size: 477070457
+path: AUTOFRAME-AI-Setup-1.7.0.exe
+sha512: xFs4pIhRJP77faG7U28JNhYyZMR83Khr1eYnW9R+AljkMCliBws/7FQpSE8Ej1aHSLEs1QuzRObAqah7lJCdbQ==
+releaseDate: '2026-10-18T07:02:32.995899+00:00'
